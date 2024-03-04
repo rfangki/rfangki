@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2023<br>📚 I'm currently learning React to improve my skills and enhancing my English fluency.<br>🎯 Goals: I aim to work while savoring a cup of coffee in a relaxed setting.<br>🎲 Fun fact: I used to be hooked on gaming, but ever since I started coding, I've lost interest in playing games.</p>
+<p align="center">✨ Creating bugs since 2023<br>📚 I'm currently learning React to improve my skills and enhancing my English fluency.<br>🎯 Goals: I aim to work while savoring a cup of coffee in a relaxed setting.<br>🎲 Fun fact: I used to be immersed in the gaming world, but since I delved into coding, my enthusiasm for playing games has waned.</p>
 
 ###
 
