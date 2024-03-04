@@ -22,7 +22,6 @@
 </div>
 
 ###
-![giff (1)](https://github.com/rfangki/rfangki/assets/143614872/27fe8f31-ee3b-4e07-bf50-06d2c28df3d1)
 
 
 <div align="center">
@@ -60,9 +59,7 @@
 
 ###
 
-<div align="center">
-  <img height="300" src="https://github.com/rfangki/rfangki/assets/143614872/72e27cd4-86c6-4d29-814c-662fbb636382"/>
-</div>
+![giff (1) (1)](https://github.com/rfangki/rfangki/assets/143614872/d9e50143-ed41-445b-bafd-ae1eabefbfec)
 
 ###
 
