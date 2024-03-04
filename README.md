@@ -21,9 +21,6 @@
 
 ###
 
-![d3dbe3af0dfef384f824ef40c1af36f7](https://github.com/rfangki/rfangki/assets/143614872/72e27cd4-86c6-4d29-814c-662fbb636382)
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -57,5 +54,9 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+
+###
+
+![d3dbe3af0dfef384f824ef40c1af36f7](https://github.com/rfangki/rfangki/assets/143614872/72e27cd4-86c6-4d29-814c-662fbb636382)
 
 ###
