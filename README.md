@@ -59,7 +59,9 @@
 
 ###
 
-![giff (1) (1)](https://github.com/rfangki/rfangki/assets/143614872/d9e50143-ed41-445b-bafd-ae1eabefbfec)
+<div align="center">
+    ![giff (1) (1) (1)](https://github.com/rfangki/rfangki/assets/143614872/cd04a71f-7979-4084-8564-a7736baf5310)
+</div>
 
 ###
 
