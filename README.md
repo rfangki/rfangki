@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="150" src="![d3dbe3af0dfef384f824ef40c1af36f7](https://github.com/rfangki/rfangki/assets/143614872/72e27cd4-86c6-4d29-814c-662fbb636382)"  />
+![d3dbe3af0dfef384f824ef40c1af36f7](https://github.com/rfangki/rfangki/assets/143614872/72e27cd4-86c6-4d29-814c-662fbb636382)
 
 ###
 
