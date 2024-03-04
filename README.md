@@ -22,6 +22,7 @@
 </div>
 
 ###
+![giff (1)](https://github.com/rfangki/rfangki/assets/143614872/27fe8f31-ee3b-4e07-bf50-06d2c28df3d1)
 
 
 <div align="center">
