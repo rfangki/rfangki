@@ -60,8 +60,9 @@
 ###
 
 <div align="center">
-    <img src="https://github.com/rfangki/rfangki/assets/143614872/cd04a71f-7979-4084-8564-a7736baf5310"/>
+    <img height="470" src="https://github.com/rfangki/rfangki/assets/143614872/ae46bb45-2067-4c1d-ba4a-b21230e5dfd8"/>
 </div>
+
 
 ###
 
