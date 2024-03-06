@@ -1,6 +1,5 @@
 name: update-gh-activity
 
- workflow_dispatch:
 
 on:
   schedule:
