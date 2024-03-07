@@ -60,7 +60,7 @@
 
 ###
 
-<div align="center" >
+<div>
     <img height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=31udn5hyslpddeeb6itzboyicy3y" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="330" src="https://github.com/rfangki/rfangki/assets/143614872/ae46bb45-2067-4c1d-ba4a-b21230e5dfd8"/>
