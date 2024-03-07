@@ -60,9 +60,9 @@
 
 ###
 
-<div style="display: flex; flex-direction: row;">
-    <img class="img" src="https://spotify-recently-played-readme.vercel.app/api?user=31udn5hyslpddeeb6itzboyicy3y" />
-    <img class="img" src="https://github.com/rfangki/rfangki/assets/143614872/ae46bb45-2067-4c1d-ba4a-b21230e5dfd8"/>
+<div align="center" dir="auto" style="align-item: center">
+    <img style="max-width: 100%;" src="https://spotify-recently-played-readme.vercel.app/api?user=31udn5hyslpddeeb6itzboyicy3y" />
+    <img style="max-width: 100%;" src="https://github.com/rfangki/rfangki/assets/143614872/ae46bb45-2067-4c1d-ba4a-b21230e5dfd8"/>
 </div>
 
 ###
