@@ -61,7 +61,7 @@
 ###
 
 <div align="center" dir="auto" style="display: flex; justify-content: space-between; align-items: center;">
-    <img style="width: 400px; height: 330px" src="https://spotify-recently-played-readme.vercel.app/api?user=31udn5hyslpddeeb6itzboyicy3y" />
+    <img style="width: 400px; height: 330px" src="https://spotify-recently-played-readme.vercel.app/api?user=21dixysiwjs7rpwyj7jksxsqy" />
     &nbsp;
 &nbsp;
     <img style="width: 400px; height: 330px" src="https://github.com/rfangki/rfangki/assets/143614872/c03b7a57-b5bb-4eb0-b185-0c1f4f259811"/>
